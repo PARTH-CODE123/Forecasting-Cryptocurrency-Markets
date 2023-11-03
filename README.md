@@ -1,2 +1,3 @@
 # Forecasting-Cryptocurrency-Markets
 A Multi-Model Approach with Explainable AI Interpretation
+The meteoric rise of Bitcoins has caused a tectonic shift within conventional banks, changing the world of finance to an altogether new age characterized by decentralization and the explosion of digital assets. Its disruptive power has captured the curiosity of an array of stakeholders, including experienced investors & financial professionals to passionate crypto fans. The appealing nature of cryptocurrency comes not just in their substantial upside potential, additionally from their inherent difficulty, making anticipating price movements an uphill conundrum.
